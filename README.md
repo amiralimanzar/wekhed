@@ -4,6 +4,6 @@
     <img src="https://wekhed.ir/themes/default/statics/img/logo.png" alt="Logo" width="128" height="128"/>
 </p>
 
-The parch is an os based on the [Arch Linux](https://archlinux.org), Parch tries to look like the Arch but with an easy and Graphical installation.
+[wekhed](https://wekhed.ir) is a social network replacing [Twitter](https://twitter.com), [wekhed](https://wekhed.ir) tries to be a localized version of [Twitter](https://twitter.com).
 
 * The Parch fourm in [discord](https://discord.gg/hUagd5THDS)
