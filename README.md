@@ -1,1 +1,2 @@
-# wekhed is a text centric social network.
+# wekhed
+wekhed is a text centric social network.
